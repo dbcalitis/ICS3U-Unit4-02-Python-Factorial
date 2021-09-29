@@ -2,7 +2,7 @@
 
 # Created by: Daria Bernice Calitis
 # Created on: Sept 2021
-# This program is a the factorial program
+# This program is a factorial program
 
 
 def main():
